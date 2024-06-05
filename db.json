@@ -1,0 +1,112 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "name": "Percy Jackson And The Olympians 2: The Sea Of Monsters",
+      "image": "images/Percy.jpg",
+      "producer": "Penguin Books",
+      "author": "Rick Riordan",
+      "price": "4.99",
+      "featured": true,
+      "description": "It's not easy being a half-blood these days. Even a simple game of dodgeball becomes a death match against an ugly gang of cannibal giants - and that was only the beginning."
+    },
+    {
+      "id": 1,
+      "name": "King Of Scars",
+      "image": "images/King.jpg",
+      "producer": "Orion Children's Books",
+      "author": "Leigh Bardugo",
+      "price": "4.99",
+      "featured": true,
+      "description": "The much-anticipated first book in a brand-new duology by New York Times bestselling author, Leigh Bardugo."
+    },
+    {
+      "id": 2,
+      "name": "Bridge to Terabithia",
+      "image": "images/Bridge.jpg",
+      "producer": "Harpercollins Publishers Inc",
+      "author": "Katherine Paterson",
+      "price": "4.99",
+      "featured": true,
+      "description": "This Newbery Medal-winning novel by bestselling author Katherine Paterson is a modern classic of friendship and loss."
+    },
+    {
+      "id": 3,
+      "name": "Lore",
+      "image": "images/Lore.jpg",
+      "producer": "Quercus Children's Books",
+      "author": "Alexandra Bracken",
+      "price": "4.99",
+      "featured": true,
+      "description": "From the No.1 New York Times bestselling author of THE DARKEST MINDS comes a high-octane story of power, destiny and redemption."
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "bookId": 0,
+      "rating": 5,
+      "comment": "Good",
+      "author": "John Smith",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "bookId": 0,
+      "rating": 4,
+      "comment": "Quite a fascinating read",
+      "author": "David",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "bookId": 1,
+      "rating": 3,
+      "comment": "Reading seems normal",
+      "author": "Mr K",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "bookId": 1,
+      "rating": 4,
+      "comment": "It was so good that I read it again",
+      "author": "Ray",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "bookId": 2,
+      "rating": 2,
+      "comment": "Bad reading",
+      "author": "Nathan",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "bookId": 2,
+      "rating": 5,
+      "comment": "It's so good, you have to buy it, everyone",
+      "author": "Ethan",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "bookId": 3,
+      "rating": 4,
+      "comment": "I read it very well and touchingly",
+      "author": "Mino",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "bookId": 3,
+      "rating": 3,
+      "comment": "Too normal",
+      "author": "Ruad",
+      "date": "2015-02-13T17:57:28.556094Z"
+    }
+
+  ]
+
+}
